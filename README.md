@@ -1,4 +1,4 @@
-# untitled
+# SEPHORA REVIEWS APP
 
 A new Flutter project.
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Screenshot (7)](https://github.com/mAnethiA/Sephora_APP/assets/42315297/102b80f2-8e82-475d-9c81-629a59df4c5c)
+![Uploading Screenshot (8).png…]()
